@@ -200,6 +200,17 @@ h1 {
 }
 
 
+/* Artículos */
+.articulos {
+  min-height: 500px;
+  padding: 30px;
+}
+
+.articulos .list-group {
+  width: 80%;
+  max-width: 600px;
+  margin: 20px;
+}
 
 
 /* Adaptable (Responsivo) */
